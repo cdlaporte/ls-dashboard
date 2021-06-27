@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.1" height="60.22" viewBox="0 0 33.1 60.22">
+  <g id="Group_133" data-name="Group 133" transform="translate(-689.76 -274.17)">
+    <g id="Group_130" data-name="Group 130">
+      <g id="Group_119" data-name="Group 119">
+        <g id="Group_117" data-name="Group 117">
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="32.55" height="43.41" transform="translate(690.04 285.29)" fill="#ffe422"/>
+        </g>
+        <g id="Group_118" data-name="Group 118">
+          <path id="Path_46" data-name="Path 46" d="M722.86,328.96h-33.1V285.01h33.1Zm-32.55-.54h32.01V285.56H690.31Z"/>
+        </g>
+      </g>
+      <g id="Group_123" data-name="Group 123">
+        <g id="Group_122" data-name="Group 122">
+          <g id="Group_120" data-name="Group 120">
+            <path id="Path_47" data-name="Path 47" d="M690.04,274.43v10.86h5.42v-5.43h21.71v5.43h5.42V274.43Z" fill="#ffe422"/>
+          </g>
+          <g id="Group_121" data-name="Group 121">
+            <path id="Path_48" data-name="Path 48" d="M722.86,285.56h-5.97v-5.43H695.73v5.43h-5.97V274.17h33.1v11.39Zm-5.42-.55h4.88V274.7H690.31v10.31h4.88v-5.43h22.25Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_126" data-name="Group 126">
+        <g id="Group_124" data-name="Group 124">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="5.43" height="5.43" transform="translate(690.04 328.69)" fill="#ffe422"/>
+        </g>
+        <g id="Group_125" data-name="Group 125">
+          <path id="Path_49" data-name="Path 49" d="M695.73,334.39h-5.97v-5.97h5.97Zm-5.42-.54h4.88v-4.88h-4.88Z"/>
+        </g>
+      </g>
+      <g id="Group_129" data-name="Group 129">
+        <g id="Group_127" data-name="Group 127">
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="5.43" height="5.43" transform="translate(717.17 328.69)" fill="#ffe422"/>
+        </g>
+        <g id="Group_128" data-name="Group 128">
+          <path id="Path_50" data-name="Path 50" d="M722.86,334.39h-5.97v-5.97h5.97Zm-5.42-.54h4.88v-4.88h-4.88Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_132" data-name="Group 132">
+      <g id="Group_131" data-name="Group 131">
+        <path id="Path_51" data-name="Path 51" d="M711.47,296.14l-10.85,10.85h10.85l-10.85,10.85" fill="#2f292b"/>
+      </g>
+    </g>
+  </g>
+</svg>

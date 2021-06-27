@@ -1,0 +1,13 @@
+<svg id="Component_4_1" data-name="Component 4 – 1" xmlns="http://www.w3.org/2000/svg" width="240" height="237" viewBox="0 0 240 237">
+  <g id="Component_2_1" data-name="Component 2 – 1">
+    <g id="Ellipse_1" data-name="Ellipse 1" fill="#ffe91c" stroke="#000" stroke-width="8">
+      <ellipse cx="120" cy="118.5" rx="120" ry="118.5" stroke="none"/>
+      <ellipse cx="120" cy="118.5" rx="116" ry="114.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(71.431 20)">
+    <g id="Group_110" data-name="Group 110" transform="translate(-579.585 -765.922)">
+      <path id="Path_60" data-name="Path 60" d="M676.724,765.922l-97.139,97.039h97.139L579.585,960"/>
+    </g>
+  </g>
+</svg>

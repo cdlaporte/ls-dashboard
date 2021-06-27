@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  background-color: #424242;
+  /* background-color: #939393; */
+}
+
+.react-swipeable-view-container {
+  transition: transform 0.35s cubic-bezier(0.15, 0.3, 0.25, 1) 0s !important;
+}
+
+.MuiPaper-root {
+  background-color: #222222 !important;
+}
+
+.breakeventicks {
+  color: 'white'
+}
+
+.MuiCardContent-root {
+  padding: 0px !important
 }
 
 .App-logo {
